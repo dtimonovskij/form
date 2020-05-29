@@ -1,20 +1,18 @@
 .button {
     display: inline-block;
-    margin: 0;
-    border: 1px solid #00e0d0;
-    border-radius: 0;
+    margin-right: 28px;
+    border: 1px solid#6FCB85;
+    border-radius: 5px;
     font-size: 16px;
     line-height: inherit;
     font-family: inherit;
-    padding: 15px 28px;
+    padding: 11px 20px;
     font-weight: 400;
     text-decoration: none;
     cursor: pointer;
     appearance: none;
     -webkit-appearance: none;
     -moz-appearance: none;
-    font-family: "Hammersmith One" sans-serif;
-    text-transform: uppercase;
   }
   
   .button:hover {
@@ -28,11 +26,11 @@
     width: 100%;
   }
   .button-primary {
-    color: #00e0d0;
+    color: #6FCB85;
     background-color: transparent;
   }
   .button-primary:hover {
-    color: #49a4cc;
-    background-color: transparent;
-    border-color: #49a4cc;
+    color: #ffffff;
+    background-color: #6FCB85;
+    border-color: #6FCB85;
   }
