@@ -1,8 +1,9 @@
 nav{
-    display: block;
+    margin-top: 40px;
 }
 .nav-item{
-    display: block;
+   display: flex;
+   align-items: center;
     padding: 15px 15px;
     font-size: 13px;
     line-height: 15px;
@@ -11,6 +12,7 @@ nav{
 }
 .icon-nav{
     margin-right: 20px;
+    font-size: 21px;
 }
 .nav-item:hover{
     background-color: #F0F9F2;
