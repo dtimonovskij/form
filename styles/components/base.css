@@ -12,6 +12,9 @@
     background-color: #ffffff;
     color: #515253;
   }
+  .main{
+   background-color: #E5E5E5;
+  }
   .wrapper {
     position: relative;
     overflow: hidden;

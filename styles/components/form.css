@@ -6,19 +6,19 @@
   .select,
   .textarea {
     width: 100%;
-    border: 1px solid #000000;
+    border: 1px solid #E5E5E5;
     padding: 18px 21px;
     background-color: #fff;
     color: black;
-    margin: 0;
-    border-radius: 0;
+    margin: 12px 0px;
     font-size: inherit;
-    opacity: 0.1;
+    background: #FFFFFF;
+    border-radius: 4px;
   }
   
   .input,
   .select {
-    height: 45px;
+    height: 40px;
   }
   .select {
     -webkit-appearance: none;
@@ -33,8 +33,8 @@
   .textarea:focus {
     outline: none;
     background-color: #fff;
-    color: black;
-    border-color: #000000;
+    color: #515253;
+    border-color: #6FCB85;
   }
   
   .input:disabled,
@@ -95,4 +95,22 @@
     background-color: #e5e5e5;
     border-style: dashed;
   }
-  
+  .form-radio{
+    font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+color: #515253;
+margin-bottom: 42px;
+
+  }
+  .title-radio{
+    display: block;
+    margin-bottom: 16px;
+  }
+  .label-radio{
+    margin-right: 70px;
+  }
+  .input-radio{
+  margin-right: 10px;
+  background-color: green;
+  }
