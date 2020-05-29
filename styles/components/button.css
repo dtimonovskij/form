@@ -1,0 +1,38 @@
+.button {
+    display: inline-block;
+    margin: 0;
+    border: 1px solid #00e0d0;
+    border-radius: 0;
+    font-size: 16px;
+    line-height: inherit;
+    font-family: inherit;
+    padding: 15px 28px;
+    font-weight: 400;
+    text-decoration: none;
+    cursor: pointer;
+    appearance: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    font-family: "Hammersmith One" sans-serif;
+    text-transform: uppercase;
+  }
+  
+  .button:hover {
+    text-decoration: none;
+  }
+  
+  .button:focus {
+    outline: none;
+  }
+  .button-full {
+    width: 100%;
+  }
+  .button-primary {
+    color: #00e0d0;
+    background-color: transparent;
+  }
+  .button-primary:hover {
+    color: #49a4cc;
+    background-color: transparent;
+    border-color: #49a4cc;
+  }

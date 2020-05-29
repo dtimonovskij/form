@@ -1,0 +1,24 @@
+nav{
+    display: block;
+}
+.nav-item{
+    display: block;
+    padding: 15px 15px;
+    font-size: 13px;
+    line-height: 15px;
+    color: #515253;
+    border-left: 3px solid transparent;
+}
+.icon-nav{
+    margin-right: 20px;
+}
+.nav-item:hover{
+    background-color: #F0F9F2;
+    color: #6FCB85;
+    border-left: 3px solid #6FCB85;
+}
+.is-active{
+    color: #6FCB85;
+    border-left: 3px solid #6FCB85;
+    background-color: #F0F9F2;
+}
