@@ -14,3 +14,82 @@
     background-color: #ffffff;
     padding: 30px 30px;
 }
+.form-radio{
+margin-bottom: 42px;
+
+  }
+  .title-radio{
+    display: block;
+    margin-bottom: 16px;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+  }
+  .label-radio{
+    margin-right: 70px;
+  }
+  .input-radio{
+  margin-right: 10px;
+  background-color: green;
+  }
+  .section-secondary{
+      margin-top: 0px;
+  }
+  .info {
+      width: 100%;
+      height: 148px;
+      padding: 15px;
+      background-color: #F2F5F9;
+border-radius: 4px;
+  }
+  .sub-title{
+      margin-bottom: 0px;
+  }
+  .link{
+    color: #6FCB85;
+  }
+  .link:hover{
+      text-decoration: underline;
+  }
+  .title{
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 16px;
+    margin-top: 13px;
+    margin-bottom: 30px;
+  }
+  .title-checkbox{
+      display: block;
+      padding-bottom: 15px;
+      font-weight: 500;
+      font-size: 16px;
+      line-height: 19px;
+      margin-top: 80px;
+  }
+  .checkbox-desc{
+      display: inline-block;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    margin-left: 10px;
+    
+  }
+  .checkbox{
+    border: 2px solid #515253;
+  }
+  .desc-checkbox{
+    display: block;
+    font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+
+  }
+  .title-input{
+      display: block;
+      margin-top: 90px;
+      margin-bottom: 30px;
+      font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    
+} 

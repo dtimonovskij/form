@@ -95,22 +95,4 @@
     background-color: #e5e5e5;
     border-style: dashed;
   }
-  .form-radio{
-    font-weight: 500;
-font-size: 16px;
-line-height: 19px;
-color: #515253;
-margin-bottom: 42px;
-
-  }
-  .title-radio{
-    display: block;
-    margin-bottom: 16px;
-  }
-  .label-radio{
-    margin-right: 70px;
-  }
-  .input-radio{
-  margin-right: 10px;
-  background-color: green;
-  }
+ 
